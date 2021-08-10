@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'Gửi cho cậu <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'Yêu thương nhưng từ từ đừng chén tớ nhé 😘😘.',
+    messDesc: 'Yêu thương nhưng từ từ hãng chén tớ nhé 😘😘.',
     btnAccept: 'Okiiiii lun <3',
 }
